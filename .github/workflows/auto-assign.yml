@@ -18,6 +18,5 @@ jobs:
           assignees: |
             SLYTHEREN
             NightSling
-            SlytherSavior
           numOfAssignee: 2
     
