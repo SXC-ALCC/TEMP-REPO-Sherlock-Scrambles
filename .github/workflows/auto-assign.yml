@@ -3,7 +3,7 @@ on:
   issues:
     types: [opened]
   pull_request:
-    types: [opened]
+    types: [opened, ready_for_review]
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -14,9 +14,6 @@ jobs:
     - name: 'Auto-assign issue'
       uses: pozil/auto-assign-issue@v1
       with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          assignees: |
-            SLYTHEREN
-            NightSling
-          numOfAssignee: 2
-    
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        assignees: SLYTHEREN,NightSling
+        numOfAssignee: 2
