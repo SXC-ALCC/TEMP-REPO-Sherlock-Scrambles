@@ -71,13 +71,16 @@ This project uses the following technologies:
 ## 🧑‍💻 Useful Commands
 
 - **Install Dependencies:**  
+```bash
   npm install  
   or  
   yarn install
-
+```
 - **Start Development Server:**  
+```bash
   npm run dev  
   or  
   yarn dev
+```
 
 Feel free to explore, jump in, and contribute! Happy coding! 😎
