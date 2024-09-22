@@ -68,7 +68,7 @@ This project uses the following technologies:
 - **Auth.js** 🔐: Authentication solutions like Google OAuth.
 - **Firebase** 🔥: Backend for managing authentication, real-time data, and more.
 
-## 🧑‍💻 Useful Commands
+## 🧑‍💻 Useful Commands :
 
 - **Install Dependencies:**  
 ```bash
