@@ -48,15 +48,15 @@ We use Tailwind CSS for all our styling. You can easily add classes to your JSX 
 ### 6. Commit Your Changes
 After making your changes, stage and commit them.
 ```bash
-- `git add .`
+git add .
 ```
 ```bash
-- `git commit -m "Add Landing Page component"`
+git commit -m "Add Landing Page component"
 ```
 ### 7. Push Your Changes
 Push your changes to your forked repository:
 ```bash
-- `git push origin feature-name`
+git push origin feature-name
 ```
 ### 8. Create a Pull Request (PR)
 Head over to GitHub and submit a Pull Request from your branch.
@@ -85,6 +85,6 @@ Make sure to provide a clear description of your changes!
 - Be kind and respectful in your contributions and interactions.
 - Ensure your code is clean and well-commented.
 - Test your components before submitting.
-- Collaborate with other contributors to avoid duplicate work.
+- Collaborate with other members / contributors to avoid duplicate work.
 
 That’s it! 🎉 Now you’re all set to contribute to the **Weave Game Project**! We look forward to your awesome contributions. 🚀 Happy coding! 😎
