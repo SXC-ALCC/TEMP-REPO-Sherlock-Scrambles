@@ -13,8 +13,10 @@ First things first, fork this repository to your own GitHub account!
 ### 2. Clone the Forked Repo Locally
 Now that you’ve forked the repo, clone it to your local machine.
 
-- **Using Command Line**:  
-  `git clone https://github.com/YOUR_USERNAME/weave-game.git`
+- **Using Command Line**:
+  ```bash
+  git clone https://github.com/YOUR_USERNAME/weave-game.git
+  ```
 
 - **Using GitHub Desktop**:  
   - Open GitHub Desktop.
@@ -24,12 +26,14 @@ Now that you’ve forked the repo, clone it to your local machine.
 ### 3. Create a Branch
 Creating a separate branch is a best practice! This keeps our work organized.
 
-- **Using Command Line**:  
-  `git checkout -b feature-name`
-
+- **Using Command Line**:
+```bash
+  git checkout -b feature-name
+```
   **Example**:  
-  `git checkout -b add-landing-page`
-
+  ```bash
+  git checkout -b add-landing-page
+```
 - **Using GitHub Desktop**:  
   - Go to the "Current Branch" menu and select "New Branch."
   - Name your branch (e.g., `add-landing-page`).
@@ -44,7 +48,10 @@ For front-end contributions, use the `.jsx` format when creating React component
 `LandingPage.jsx`
 
 **Folder structure**:  
-`src/app/components/LandingPage/LandingPage.jsx`
+`src/app/components/LandingPage.jsx`
+
+**Assets Folder**:  
+Place any assets in the `src/app/public/assets` folder. This will keep your assets organized alongside the components.
 
 📚 [Learn more about JSX here](https://reactjs.org/docs/introducing-jsx.html).
 
@@ -73,7 +80,6 @@ After making your changes, you need to stage and commit them.
   - Click on the "Changes" tab in the left sidebar.
   - Add a descriptive summary of your changes and click "Commit to [branch name]."
 
-
 ### 7. Push Your Changes
 Now, push your changes to your forked repository.
 
@@ -85,7 +91,6 @@ Now, push your changes to your forked repository.
 
 - **Using GitHub Desktop**:
   - Click on the "Push origin" button in the top-right corner of the app.
-
 
 ### 8. Create a Pull Request (PR)
 Once your changes are pushed to your forked repo, it's time to create a Pull Request (PR) to merge your changes into the main project.
@@ -128,3 +133,4 @@ For this project, while it's perfectly fine to test your components in any envir
 ---
 
 That's it! 🎉 You’re all set to contribute to the **Weave Game Project**! We can’t wait to see what you build. 🚀 Happy coding! 😎
+
