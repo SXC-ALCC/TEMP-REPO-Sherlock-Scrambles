@@ -56,6 +56,9 @@ Check out this [guide on creating a fork and submitting a pull request](https://
 ### Set Up the Repo Locally
 
 If you're new to GitHub Desktop, this [tutorial](https://www.youtube.com/watch?v=UGokwtIn1Hk) will help you set up and clone the repo.
+### Contribute to this project
+  #### Front-end Developers 
+      See the contribution guide [HERE](./CONTRIBUTION.md)
 
 ### Submit Your Changes
 
