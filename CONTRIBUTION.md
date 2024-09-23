@@ -1,6 +1,6 @@
 # 🌟 Contribution Guide
 
-Hey there! 🙌 Thanks for your interest in contributing to the **Weave Game Project**! Whether you're a seasoned developer or just starting out, we've made this guide to help you get up to speed quickly and contribute effectively. Let’s break it down step by step. 🛠️
+Hey there! 🙌 Thanks for your interest in participating and contributing to the **Weave Game Project**! Whether you're a seasoned developer or just starting out, we've made this guide to help you get up to speed quickly and contribute effectively. Let’s break it down step by step. 🛠️
 
 ## 📝 Step-by-Step Contribution Guide
 
