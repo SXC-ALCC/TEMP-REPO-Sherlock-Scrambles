@@ -1,6 +1,6 @@
-# 🕸️ Weave Game Project
+# 🕸️ Sherlock's Scrambles Project
 
-Welcome to the **Weave Game** project! This guide will help you get started with the codebase, install dependencies, set up your environment, and begin contributing to the project. Let's weave something awesome together! 🕹️
+Welcome to the **Sherlock's Scrambles** project! This guide will help you get started with the codebase, install dependencies, set up your environment, and begin contributing to the project. Let's build something awesome together! 🕹️
 
 ## 📖 Contributing
 
